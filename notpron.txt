@@ -1,0 +1,178 @@
+== Notpron ==
+
+Level 1: http://notpron.org/notpron/levelone.htm
+
+Level 2: http://notpron.org/notpron/not/level2.htm
+
+Level 3: http://www.deathball.net/notpron/false/movetotheothersite.php
+
+Level 4: http://www.deathball.net/notpron/true/movetotheothersite.php
+
+-> VOODOO MAGIC
+-> Clica na moeda e digita usuário e senha
+
+Level 5: http://www.deathball.net/notpron/google/shestheoneforme.php
+
+-> Qual o nome da música?
+-> Procurando "eyes like an angel smiles like a devil" no google dá a música "Simple Songs", do Big Bad Voodoo Daddy.
+-> Clica no botão vermelho do controle e o usuário e senha é Simple / Songs.
+
+Level 6: http://www.deathball.net/notpron/nothing/hesgotitall.php
+
+"... the source code might help"
+
+-> Olhando no código fonte tem a dica: "ascii is an alternative"
+-> Clicando no relógio da imagem a dica de senha é "anagram".
+-> Indo no código fonte, tem um link diferente que leva pra http://www.deathball.net/notpron/stuff/mine.htm
+-> Lá tem dois códigos em Ascii (108 105 108 107, 101 122 111 110)
+-> Traduzindo para texto fica (lilk, ezon)
+-> Fazendo um anagrama dessas duas palavras dá a senha: kill / zone
+
+Level 7: http://www.deathball.net/notpron/sdrawkcab/tieman.htm
+
+'he went to the old school'
+
+-> Codigo fonte: 'time have changed in deutschland (alemanha)', 'what candy wrapper is it'
+-> Dá a entender que é a embalagem de um chocolate que não é vendido mais na alemanha
+-> pesquisando candy wrapper deutschland no google, aparecem imagens do TWIX, mas com o nome 'Raider'
+-> Colocando raider na url, cai numa página 'you are wasting your time here'
+-> dnuorayawrehto = other way around
+-> raider = rediar na url
+
+Level 8: http://www.deathball.net/notpron/sdrawkcab/rediar.htm
+
+say it loudly and proudly
+
+-> JAY PACK = JPEG?
+-> 'water became vine': .xxx -> .jpeg ?
+-> no código fonto tem um link pra ../stuff/mus2.mp3
+-> Vendo o código fonte desse arquivo mp3, vemos que é uma imagem jpeg que foi renomeada pra .mp3
+-> O que eu fiz: Olhar no código fonte da imagem e achar "photoshop:LayerName="name: inverted password: tenthlevel"
+-> inverted / tenthlevel
+
+Level 9: http://www.deathball.net/notpron/luv2music/paulisdead.htm
+
+revolution
+
+-> 'paulisdead'
+-> código fonte: o texto tem certas letras que estão na tag <span> com a class 'not'. Deixando somente essas letras resulta em: turnmeondeadman
+-> username: turnmeon, senha: deadman
+
+Level 10: http://www.deathball.net/notpron/wrong/roawr.htm
+
+he was impatient
+
+-> a música é diferente, parece um rugido (roawr)
+-> código fonte: 'quick, quick, dont let him wait'
+-> baixei a mus3.mp3 e joguei no audacity
+-> aumentei o tempo e tom, e inverti o áudio
+-> voz falando: 'dark times'
+
+Level 11: http://www.deathball.net/notpron/reality/mystery.htm
+
+ahead of its time
+
+-> nada demais no código fonte
+-> nome da imagem é screen12, mas o level é o 11
+-> muda o nome da imagem pra screen11, aparece a imagem com o usuário e senha
+-> fucking pans
+
+Level 12: http://www.deathball.net/notpron/blame/crossview.htm
+
+stereo
+
+-> crossview
+-> duas imagens aparentemente iguais
+-> código fonte: 'GIF me my picture back'
+-> mudando a extensão da imagem pra .gif, aparece um gif intercalando duas fotos
+-> o controle remoto é o único objeto que se 'mexe' de uma foto para a outra
+-> colocando no usuario e senha remote / control
+
+Level 13: http://www.deathball.net/notpron/ps/afterdeath.htm
+
+lucy not in the sky
+
+-> passando o mouse em alguns locais da imagem mostra um alert 'x of 5', x sendo um número entre 1 e 5
+-> analisando onde o mouse passa dá pra ver letras
+1 of 5: D
+2 of 5: E
+3 of 5: V  =  Devil
+4 of 5: I
+5 of 5: L
+-> a fase faz referência à música Lucy in the sky with diamonds, dos Beatles
+-> código fonte: 'hes been a bad boy' = Devil?
+-> lucy not in the sky, então está no inferno? = hell
+-> tentativa: devil / hell. Deu certo :)
+-> ainda não descobri a relação da fase 10 e a fase 4 nessa imagem (?)
+
+Level 14: http://www.deathball.net/notpron/neo/beenthere.htm
+
+he knew the feeling...
+
+-> código fonte: 'hat language is the password hint? use it properly!'
+-> hint: 'quoi?', usando o google translate fala que é francês
+-> a imagem se parece muito com a imagem da fase 5
+-> testando algumas frases de ingles pra frances no tradutor
+-> já vi essa imagem -> déjá vu cette image
+-> provavelmente a resposta é deja / vu
+
+Level 15: http://www.deathball.net/notpron/rusty/board.htm
+
+hit the keys
+
+-> No código fonte:
+-> [1] 4 [2] 1 [3] 6 [2] 3 [1] 9 [3] 7
+   [2] 1 [3] 3 3 [1] 3 [2] 2 2
+-> this message is ONLY for french people (and maybe belgium): votre clavier est erronï¿½ = seu teclado está errado
+-> olhando para meu teclado, vejo que tem 3 linhas de teclas
+-> pegando o [x] como a linha, e x como a tecla x dessa linha, temos o seguinte:
+
+[1]4: R  [2]1 : A
+[2]1: A  [3]33: CC
+[3]6: N  [1]3 : E
+[2]3: D  [2]22: SS
+[1]9: O
+[3]7: M  = Random access
+
+Level 16: http://www.deathball.net/notpron/zoo/mznvh.htm
+
+resume
+
+-> Imagem de todas as fases até agora
+-> Todas tem um número que tem algum significado, menos a última que é a do level 16 mesmo
+-> 'invert az' -> z vira a primeira letra, a vira a ultima (?)
+-> '# = ellwll/hrnkov/proo/...' -> '
+
+Level 4:  http://www.deathball.net/notpron/true/movetotheothersite.php -> VOODOO MAGIC
+Level 5:  http://www.deathball.net/notpron/google/shestheoneforme.php  -> SIMPLE SONGS
+Level 6:  http://www.deathball.net/notpron/nothing/hesgotitall.php     -> KILL ZONE
+Level 8:  http://www.deathball.net/notpron/sdrawkcab/rediar.htm        -> INVERTED TENTHLEVEL
+Level 9:  http://www.deathball.net/notpron/luv2music/paulisdead.htm    -> TURNMEON DEADMAN
+Level 10: http://www.deathball.net/notpron/wrong/roawr.htm             -> DARK TIMES
+Level 11: http://www.deathball.net/notpron/reality/mystery.htm         -> FUCKING PANS
+Level 12: http://www.deathball.net/notpron/blame/crossview.htm         -> REMOTE CONTROL
+Level 13: http://www.deathball.net/notpron/ps/afterdeath.htm           -> DEVIL HELL
+Level 14: http://www.deathball.net/notpron/neo/beenthere.htm           -> DEJA VU
+Level 15: http://www.deathball.net/notpron/rusty/board.htm             -> RANDOM ACCESS
+
+invertendo a com z, tendo o alfabeto invertido
+
+# = ellwll/hrnkov/proo/...' = voodoo/simple/kill/...'
+# = Username
+
+4  (4)  : A
+5  (5#) : L
+6  (3#) : L
+8  (2#) : N
+9  (5)  : deadman
+11 (1#) : F
+12 (1)  : magic
+13 (2)  : songs
+14 (2)  : songs
+15 (1)  : magic
+
+1#, 2#, 3#, 5#
+1 1 2 2 4 5
+
+-> lnlenocssc
+-> ttksdvmssm

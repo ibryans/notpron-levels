@@ -158,21 +158,22 @@ Level 15: http://www.deathball.net/notpron/rusty/board.htm             -> RANDOM
 invertendo a com z, tendo o alfabeto invertido
 
 # = ellwll/hrnkov/proo/...' = voodoo/simple/kill/...'
-# = Username
+# = inverted username
 
-4  (4)  : A
-5  (5#) : L
-6  (3#) : L
-8  (2#) : N
-9  (5)  : deadman
-11 (1#) : F
-12 (1)  : magic
-13 (2)  : songs
-14 (2)  : songs
-15 (1)  : magic
+alfabeto invertido:
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+z y x w v u t s r q p o n m l k j i h g f e d c b a
 
-1#, 2#, 3#, 5#
-1 1 2 2 4 5
+         senha (X)   url(X)   username (V)
+4  (4)  : I -> R    E -> V    D
+5  (5#) : L -> O    L -> O    L -> O
+6  (3#) : L -> O    L -> O    L -> O
+8  (2#) : N -> M    N -> M    N -> M
+9  (5)  : M -> N    I -> R    M
+11 (1#) : F -> U    F -> U    F -> U
+12 (1)  : C -> X    C -> X    R
+13 (1)  : E -> V    F -> U    D
+14 (2)  : U -> E    E -> V    E
+15 (1)  : A -> Z    B -> Y    R
 
--> lnlenocssc
--> ttksdvmssm
+-> DOOM MURDER

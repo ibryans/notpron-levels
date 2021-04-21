@@ -179,3 +179,29 @@ z y x w v u t s r q p o n m l k j i h g f e d c b a
 -> DOOM MURDER
 
 level 17: http://www.deathball.net/notpron/finale/pron.htm
+
+-> aliens are coming
+-> imagem: 'what am I?'
+-> Tento descobrir o que é essa coisa da imagem
+-> depois de várias tentativas, vejo que é uma lâmpada: LAMP
+
+level 18: http://www.deathball.net/notpron/finale/lamp.htm
+
+-> musica diferente tocando
+-> imagem de um teclado
+-> tento descobrir as notas que tao sendo tocadas em ordem
+-> D E A F  D E A F
+-> senha: deaf
+
+level 19: http://www.deathball.net/notpron/finale/deaf.htm
+
+-> imagem de uma mão apontando pra esquerda
+-> título: 'he moved it into the right direction'
+-> <!--vovtvbm tuvgg-->
+-> talvez mover as letras pra esquerda um certo numero de vezes? Cifra de césar
+-> Peguei um script .js de cifra de cesar e alterei pra mover para a esquerda e não para a direita
+-> vovtvbm tuvgg -> unusual stuff
+
+level 20: http://www.deathball.net/notpron/windows/something.php
+
+

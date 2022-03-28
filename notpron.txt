@@ -213,3 +213,17 @@ Caracteres estranhos -> Lembra o Wingdings do windows antigo
 
 REALLY
 UNFAIR
+
+level 21: http://www.deathball.net/notpron/twentyone/again.htm
+
+várias cores escritas na tela
+-> As cores são escritas em cores diferentes delas mesmas (?)
+~ A imagem chama white.jpg, então testando imagens com o nome igual ao das cores escritas, consegui várias imagens diferentes de algo como um labirinto
+~ Cada imagem (cor) representa um caminho (ou paredes) do labirinto
+~ a cor black.jpg mostra letras no caminho do labirinto (talvez é o que vai levar à senha?)
+
+Usei o photoshop online e coloquei todas as imagens sobrepostas, diminuindo a opacidade pra ver várias ao mesmo tempo
+Da pra ver que alguns caminhos se completam
+Mas ainda não consegui decifrar quais cores devem ser utilizadas
+
+-> Criar vários pares de imagens sobrepostas pra conseguir visualizar todas ao mesmo tempo, junto com a black.jpg (letras)

@@ -227,3 +227,12 @@ Da pra ver que alguns caminhos se completam
 Mas ainda não consegui decifrar quais cores devem ser utilizadas
 
 -> Criar vários pares de imagens sobrepostas pra conseguir visualizar todas ao mesmo tempo, junto com a black.jpg (letras)
+
+-> Percebi que as cores "lilac" e "light_blue" apareciam escritas na lista, mas não apareciam como cores. Então tirei elas do labirinto (juntei todas as outras cores) e tentei percorrer o labirinto.
+-> Indo até o O1 encontrei GETTING
+-> Indo até o O2 encontrei SMARTER
+
+GETTING
+SMARTER
+
+level 22: http://www.deathball.net/notpron/beepbeep/banana.htm

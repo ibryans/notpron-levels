@@ -236,3 +236,54 @@ GETTING
 SMARTER
 
 level 22: http://www.deathball.net/notpron/beepbeep/banana.htm
+
+A imagem está escrito literalmente: the password is unexpected
+kkkk
+
+level 23: http://www.deathball.net/notpron/beepbeep/unexpected.htm
+
+Título: Im the tiniest thing unit you can see
+
+-> pensei nos pixels né
+-> coloquei pixel na url - vai pra outra página mas com a mesma foto, e uma dica: "ya, I'm small and red, zoom for me"
+-> dei zoom na imagem pra ver se achava algum pixel vermelho, e achei alguns por cima de letras
+-> juntei todas as letras que tinham um pixel vermelho => s o u n d
+
+level 24: http://www.deathball.net/notpron/beepbeep/sound.htm
+
+-> Imagem de um telefone
+-> No código fonte tem um número: 995674663
+-> Pesquisei esse número em um site de reverse lookup da alemanha (o david é alemão)
+
+Phone number in Eichendorf-Aufhausen, Germany: +49 - 9956 - 74663
+Country: Germany
+Country code: 49
+Region: Bavaria
+-> Não tem nada a ver
+
+-> Pensando agora na discagem do número num telefone antigo. Pra escrever uma mensagem vc digitava nos números, cada número correspondia a 3 letras, e vc apertava x vezes até aparecer a letra que vc queria. Vou tentar traduzir isso
+
+9: W X Y Z
+9: W X Y Z
+5: J K L
+6: M N O
+7: P Q R S
+4: G H I
+6: M N O
+6: M N O
+3: D E F
+
+Tentando encontrar uma palavra, achei: XYLOPHONE
+
+level 25: http://www.deathball.net/notpron/beepbeep/xylophone.htm
+
+- FF0000 = RED
+- password hint: 0000FF = BLUE
+
+- woopwoop25.jpg
+Imagem possui vários quadrados de diferentes cores
+
+- Talvez se deixar só o vermelho e o azul forma uma palavra?
+
+<!--multiply OR limit channels; note to self, tell people the same as in #13: no maths-->
+

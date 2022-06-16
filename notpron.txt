@@ -343,3 +343,77 @@ level 30: https://deathball.net/notpron/screen30/
 
 "yeah thats me :D
 now try to look in my face, where could it be?"
+
+- Fui na página inicial do notpron
+http://deathball.net/notpron/notpron.htm
+
+- Fui em CREDIT, pra tentar achar uma foto do david, e tinha
+- Clicando nela abria uma foto que falava "hellothere, i'm not david B"
+- O nome da foto é team_davidb.jpg
+- O nome dele é David Munnich, então mudei a imagem pra team_davidm.jpg
+- "more like it! davidandhism.htm"
+
+Level 31: https://deathball.net/notpron/screen30/davidandhism2.htm
+
+- He forgot where he took it!
+
+- einunddreissig.jpg = 31
+- testando a imagem com 32 (zweiunddreissig.jpg), mas nada
+
+- Nas propriedades da imagem
+Título: tollesbild
+Marcas: doom murder;
+Autores: david;
+
+- mudando para germany.jpg
+"and where in germany?"
+
+- na página inicial do jogo fala que o david mora em Saarbrucken/Germany
+
+- isso fica no estado de saarland
+
+- Esquece, usei um site que chama theXifer, ele pega em um JSON todos os metadados da imagem. Em uma parte dos dados, tinha isso:
+"IPTC": {
+   "ApplicationRecordVersion": 2,
+   "Headline": "whatamidoinghere.htm",
+   "SpecialInstructions": "wonderwhyieventrythis.htm",
+   "By-line": "david",
+   "ObjectName": "tollesbild",
+   "DateCreated": "2001:08:05",
+   "City": "hirstein",
+   "Province-State": "Saarland",
+   "Country-PrimaryLocationName": "Germany",
+   "Urgency": "1 (most urgent)",
+   "Keywords": "doom murder"
+},
+
+Cidade: hirstein
+
+
+Level 32: https://deathball.net/notpron/screen30/hirstein.htm
+
+<!--little difference somewhere!-->
+
+- Clicando no arquivo CSS, ele era diferente
+
+<!--the answer is macroscopic-->
+
+
+Level 33: https://deathball.net/notpron/screen30/macroscopic.htm
+
+- Hit the any key
+- <!--"Be quiet+Anakin"-->
+
+Q W E R T Z U I O P
+        E   L 
+
+A S D F G H J K L
+D K     
+
+Y X C V B N M
+          A
+
+- "sir, what's da URL again?"
+- macroscopic
+
+- STFU :: KEFL

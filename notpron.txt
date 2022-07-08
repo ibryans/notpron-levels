@@ -567,7 +567,7 @@ imagem: 43small.jpg
 
 deu pra ver bem pequeno "verysmall"
 
-verysmall.htm   !!!
+verysmall.htm   !!!"
 
 
 Level 44: https://deathball.net/notpron/nomeaning/verysmall.htm
@@ -579,4 +579,25 @@ On a stick...
 imagem: girly.jpg
 
 boy.jpg -> "you are so manly! just play with the girly pic, thats all"
+
+- PENSA NUM CUBO MÁGICO
+- TEM QUE ALINHAS OS PRETOS NUMA LINHA VERTICAL (UM STICK) E MOVER AS CORES COMO SE CADA LINHA FOSSE UMA LINHA DO CUBO MÁGICO.
+- ENTÃO VC DESCOBRE A PALAVRA NAS CORES BRANCAS
+
+B L O W
+
+Level 45: https://deathball.net/notpron/nomeaning/blow.htm
+
+quarenta.jpg    -> 40      PORTUGUESE
+cuarenta y uno  -> 41      SPANISH
+quarante-deux   -> 42      FRENCH
+drieënveertig   -> 43      DUTCH
+vierundvierzig  -> 44      GERMAN
+femogfyrre      -> 45      DANISH
+
+- Seguindo os países no mapa, eles formam uma sequência. O próximo país era a Suécia (o mais perto da dinamarca (danish))
+- Então, traduzi QUARENTA E SEIS para sueco: FYRTIOSEX
+
+
+Level 46: https://deathball.net/notpron/nomeaning/fyrtiosex.htm
 

@@ -601,3 +601,124 @@ femogfyrre      -> 45      DANISH
 
 Level 46: https://deathball.net/notpron/nomeaning/fyrtiosex.htm
 
+For the meantime...
+
+46a.jpg -> 46b.jpg
+Parece espaços que destacam alguma coisa (letras?)
+
+E X T R A
+F U N
+
+
+Level 47: https://deathball.net/notpron/threethreethree/
+
+? o_o dbm o_o Ab7 o_o dbm
+<!-- don't bother googling for the title, it will just mislead you by miles-->
+
+musica diferente: mytune.mp3
+
+metadados do mp3:
+title - music7
+comment - find the rock'n rolling dim
+
+- Pesquisando rock'n rolling dim: Álbum de músicas "Dim Rock 'N' Roll, Vol 1"
+- a musica nº 7 é "Fats Domino - The Fat man"
+- não levou a lugar nenhum
+
+dbm.htm ou ab7.htm -> "not at all"
+
+- reverti o audio -> acordes de piano
+- Procurei um site que toca acordes de piano: muted.io/piano-chords
+- "find the rock'n rolling dim" -> dim = acorde diminuto
+- Nesse site tinha alguns acordes diminuto, fui tocando pra ver qual dava certo com o audio
+- Cdim (Dó diminuto) batia com um dos acordes tocados
+- cdim.htm -> mostrous "gbdim.htm" 
+- gbdim.htm ERA A RESPOSTA!
+
+
+Level 48: https://deathball.net/notpron/threethreethree/gbdim.htm
+
+AGCGCGATTAACACCAGCGAAGTGGAA
+48.jpg: Imagem de um DNA
+
+dna.htm -> "no, we are not in level 3, and we have more advanced answers now"
+
+- Talvez o título tenha que ser traduzido?
+- Sequenciamento de DNA
+- A, T, C e G são bases nitrogenadas
+- procurando um conversor de código genético pra código de proteina (que possui nomes) pra ver se dá em alguma coisa
+- https://web.expasy.org/translate/
+- uma das traduções foi: S A I N T S E V E
+
+saintseve.htm :)
+
+
+Level 49: https://deathball.net/notpron/threethreethree/saintseve.php
+
+<!--USA vs GERMANY
+LBS vs KG
+INCH vs CM-->
+
+Password Hint: 911:dollarfahrenheit
+
+- 911 é o codigo de emergencia dos EUA -> na alemanha é 112 ou 110
+- dollar: euro
+- fahrenheit: celcius
+
+112
+eurocelcius
+
+SIM!
+
+
+Level 50: https://deathball.net/notpron/flutsch/index.htm
+
+shot!
+
+- coloquei light.htm por causa da luz
+- laser.htm
+- 51: agora apareceu uma torre -> tower.htm
+- 52: agora apareceu uma arvore -> tree.htm
+- 53: agora apareceu uma avenida -> road.htm
+
+Mahahahah :D Foooooled!
+Come on, it ain't gonna be that easy!
+
+<!--51-53 was a joke!-->
+
+- Essa página tem um frame "top.htm" com gente passando pela mesma situação no fórum
+- no final da página tem:
+
+<!--look, you found something ;)
+let's play something boring.htm-->
+
+
+Level 51: https://deathball.net/notpron/flutsch/boring.htm
+
+Unfair!
+mine51.jpg -> Imagem de um Campo minado (minesweeper)
+
+minesweeper.htm
+"If you are coming from Level 50, you are cheating and
+your IP has been logged.
+If you come from Level51: no! Try something else."
+
+- ele conseguiu ver onde tava a bomba sem clicar -> cheat
+- pesquisei por minesweeper cheat
+- tem uma trapaça: "While your cursor is inside the game's window, type XYZZY, then press Shift and Enter"
+
+tentei xyzzy.htm -> FOI!
+
+
+Level 52: https://deathball.net/notpron/flutsch/xyzzy.htm
+
+Case sensitive
+pins.jpg -> Mapa da europa com alguns países pinados (e um desenho de um carro no fundo)
+
+Países:
+
+Portugal - Espanha - França - Irlanda - Escócia - Bélgica - Holanda - Luxemburgo - Alemanha - Dinamarca - Suécia - Finlandia - Polônia - Tchéquia - Áustria - Itália - Eslováquia - Suiça - Grécia
+
+19 países
+
+PT ES FR IE UK BE NL LU DE CH IT AT CZ PL SK DK SE FI EL

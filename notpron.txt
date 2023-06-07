@@ -722,3 +722,30 @@ Portugal - Espanha - França - Irlanda - Escócia - Bélgica - Holanda - Luxembu
 19 países
 
 PT ES FR IE UK BE NL LU DE CH IT AT CZ PL SK DK SE FI EL
+
+Case sensitive -> Maiusculas e minusculas
+Maiuscula -> Capital letter -> "Capital" dos países
+
+Em 5 países as marcações coincidem com as capitais:
+Espanha (ES) - Madrid
+Bélgica (BE) - Bruxelas
+Áustria (AT) - Viena
+Suiça (CH) - Berna
+Luxemburgo (L) - Luxemburgo
+
+O que um CARRO tem a ver com isso tudo?
+
+- Placa do carro?
+- Pesquisando pelas placas dos carros nesses países, vi que elas têm a inicial do país
+
+Espanha: E
+Belgica: B
+Suiça: CH
+Austria: A
+
+- Juntando as iniciais: BEACH ???? Não deu
+- Pera, mas faltou Luxemburgo: L -> BLEACH -> bleach.htm :)
+
+
+
+Level 53: https://deathball.net/notpron/flutsch/bleach.htm

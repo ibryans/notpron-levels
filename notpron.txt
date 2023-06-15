@@ -809,3 +809,70 @@ tgenle -> gentle.htm
 
 
 Level 56: https://deathball.net/notpron/flutsch/gentle.htm
+
+Think outside the box
+
+- A imagem é um gif. Pisca um texto a cada x segundos. O texto é:
+"some noun draped as liquid, dark even. no wait isn't it just even more horrible as while you die?"
+- não entendi nada desse texto kkkkk
+
+<!--Jay packed his picture away-->
+
+- peguei a imagem gif e mudei a extensão pra .jpg
+- mostrou a mesma imagem mas com uns pontos vermelhos, acho que destacando algumas letras do texto
+- eles não tão em cima das letras, tão entre elas. Por serem quatro pontos, pode ser que eles formam um retângulo que deixa algumas letras dentro e outras fora dele
+- "Think outside the box" = pegar as letras fora do retângulo :O
+
+soundslikeitisterrible
+
+-> soundslikeitisterrible.htm
+
+
+
+Level 57: https://deathball.net/notpron/flutsch/soundslikeitisterrible.htm
+
+Mom, you'll never guess where I am
+
+- Imagem de uma cabine de telefone (57area.jpg)
+- Na cabine da imagem tem um +90: Turkey
+
+<!--a 488-->
+
+- Números de telefone que começam com 488 são da cidade de Batman, na Turkey
+
+Login/Password:
+Batman
+Turkey
+
+
+Level 58: https://deathball.net/notpron/love/wrongroad.htm
+
+Wrong road
+
+Imagem: turnback.jpg
+<!-- been lead the wrong way?-->
+
+- Voltando no nível anterior, prestei atenção no link que entramos para passar a fase
+- Ele leva pro /love/index.htm, mas quando vc entra ele redireciona para o wrongroad.htm
+- Entrei no código fonte do index.htm:
+
+<!-- yeah, thats the right way. well done!
+go to verse.htm -->
+
+
+
+Level 59: https://deathball.net/notpron/love/verse.htm
+
+what am I for?
+- Imagem de um texto com imagens (enigma Rebus): rebus.jpg
+
+"
+In my HEAD there's only you,
+the one that made my dreams come TRUE
+when you ARE not a ROUND
+you make my POOr HEART POUND
+you're the one i'll always LOVE,
+AND BE forever DREAM of
+"
+
+Do que o poema tá falando?

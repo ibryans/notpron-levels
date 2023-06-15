@@ -762,3 +762,50 @@ No final da música o cantor fala a palavra "me" -> me.htm
 
 
 Level 54: https://deathball.net/notpron/flutsch/me.htm
+
+<html><!--<--fucking right-->
+
+- o mais à direita do html é o "l"
+- mudo o link para me.html
+- Aparece a imagem de uma mulher segurando uma placa com elementos químicos
+
+Pt(3) Yb(1) Er(2)
+
+Platinum
+Ytterbium
+Erbium
+
+- Se pegar a letra correspondente ao número do lado de cada elemento
+AYR
+- deu em nada
+
+- Se pegar a quantidade de letras correspondente a esse número
+Pt(3): Pla
+Yb(1): Y
+Er(2): Er
+- Player
+
+player.htm
+
+
+Level 55: https://deathball.net/notpron/flutsch/player.htm
+
+
+Uma imagem com uma letra (t) no meio
+- worst.jpg
+
+- Se tentar best.jpg, aparece outra imagem com outra letra
+- Então vou tentar colocar todos os adjetivos de bom e ruim:
+
+worst: t
+worse: g
+bad: e
+good: n
+better: l
+best: e
+
+tgenle -> gentle.htm
+
+
+
+Level 56: https://deathball.net/notpron/flutsch/gentle.htm

@@ -876,3 +876,72 @@ AND BE forever DREAM of
 "
 
 Do que o poema tá falando?
+Do dinheiro -> money.htm
+
+
+
+
+Level 60: https://deathball.net/notpron/love/money.htm
+
+Who was it for?
+- imagem de algo em velocidade: octaved.jpg
+
+- A música é diferente: song.mp3
+- Parece estar bem grave, aumentei o tom e velocidade pelo editor
+- É aquela musica do beethoven, só que com as notas oitavadas pra baixo e pra cima
+- beethoven.htm -> "I didn't write it for myself"
+- fur elise: escreveu pra elise
+- elise.htm -> "no, it wasn't for me"
+- pesquisei sobre a história da musica, parece que foi escrita pra uma tal de therese
+
+- therese.htm -> Abriu uma página como se fosse uma base de dados
+- seria a fase 61?
+
+
+
+Level 61: http://www.deathball.net/notpron/love/main.php
+
+61 - Bit of password hacking?
+
+- É uma lista de várias imagens do level 61
+- Lá em baixo tem um link para logar com usuário e senha
+
+(C) davidm <!-- Yeah right, (C) christine83 off course -->
+
+tentei: davidm / christine83
+
+- abriram dois links: 
+Received Files
+Sent Items
+
+- são "e-mails" que o david recebeu e enviou para a christine83
+
+Received: 
+"PS, I think your coding sucks. Even with no login i can enter your archive, I don't get why you keep complaining about my password. But I changed it for you. You'll never guess my favorite color."
+
+Sent:
+"I made the message in my archive unreadable. I just checked your account, I think you should do the same. Your password is way too easy, everyone who knows you will think about it. Personally I think you should pick a new favorite color, but hey, that's just my opinion."
+
+
+- Testando todas as cores como senha do login da christine
+- pink era a senha da christine83
+
+Sent: Thursday, November 11, 2004 04:19 AM
+"Hello David,
+I just came back from the archives. As you told me to, I put the original in the most recent file. Also I replaced the rest of the weeks archives with fake copies of the painting. I hope to get my reward soon!"
+
+- Olhando a imagem mais recente daquela lista de acordo com o email enviado
+
+11 de novembro, 04 da manhã
+pic.php?time=1100142000
+
+- aumentando o contraste da imagem, aparece uma palavra:
+USURP
+
+usurp.htm
+
+
+
+Level 62: https://www.deathball.net/notpron/love/usurp.htm
+
+

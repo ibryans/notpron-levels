@@ -1002,3 +1002,90 @@ DD -> Y
 DE -> Z
 
 pqp quem eh o doente que pensa nisso?
+
+
+Level 64: https://www.deathball.net/notpron/love/popular.htm (batman/turkey)
+
+Yellow
+<!--arrrrrrrr-->
+
+imagem contem varias imagens com numeros
+
+1: The odyssey of ______ => homer
+2: Maggi => a meggy
+3: Uma barba doida => beard => bart
+4: monalisa -> lisa
+5: ? => quem que falta do simpsons? => marge
+
+
+Level 65: https://www.deathball.net/notpron/love/marge.htm (batman/turkey)
+
+He who fails will proceed
+<!--no, it's not george w bush-->
+
+- a imagem leva para um login e senha
+- who fails will succeed -> cancelei o login pra dar a mensagem de Unauthorized 401
+- o codigo fonte dessa pagina de 401 mostra que era uma pagina fake
+
+<!-- fake -->
+<!-- page -->
+
+
+Level 66: http://www.notpron.com/notpron/help/ (fake/page)
+
+The source knows it...
+<!--...was all among the "pr0n"-->
+
+- tentei mudar a url -> http://www.notpron.com/pron/help/
+- Na imagem tem um "e" escondido 
+-  "it's not here. its at the source"
+- http://www.notpron.com/pron
+- Outra imagem com um "p" escondido
+- the source: www.notpron.com/notpron/
+- Tem um <!-- cough --> mas nao cheguei a lugar nenhum com ele
+
+=> Enter the main page: Links com a pagina inicial em varias linguas
+=> No codigo fonte, esses links tao com a tag <font color="#000000"> obscure </font>
+=> tentei obscure.htm e FOI
+
+
+Level 67: http://www.notpron.com/notpron/help/obscure.htm (fake/page)
+
+It was long and different...
+<!--...and confused the shit out of you!-->
+
+- Imagem de uma constelacao
+- Pesquisando essa imagem, vi que eh a constelacao de Orion
+- orion.htm
+
+That was too easy...
+<!--...that's why it still goes on!-->
+
+- Imagem de uma estrela avermelhada
+- <!--who am i?-->
+
+=> Eh a betelgeuse
+
+
+Level 68: http://www.notpron.com/notpron/help/betelgeuse.htm (fake/page)
+
+Help me, I'm stuck on 68
+Password Hint: jaypack knows all
+
+- imagem -> 68one.jpg
+- fui alterando para 68two, 68three e etc...
+- o david fica zoando com a nossa cara, mas ele fala sobre as fases #18, #8, #59, #47, #31, #36, 
+- na 68seven.jpg tem um "r" escondido
+- Voltando na fase #18, ele segue o mesmo esquema alterando o nome da foto (screen18a, screen18b, etc...)
+- Isso nao leva a lugar nenhum (so algumas letras escondidas mas ainda sem utilidade)
+- Voltando na fase #8, onde vemos o JAY PACK pela primeira vez
+- Nessa fase, pegamos um arquivo .mp3 e alteramos para .jpg, onde mostra o usuario e senha
+- Olhando os metadados desse arquivo, tem outro usuario e senha la
+
+=> notpron / pwnz
+
+
+Level 69: http://www.notpron.com/notpron/blub/jaypackknewmore.htm (notpron/pwnz)
+
+GAGE GAGE DDB CCG
+'Password Hint: played'
